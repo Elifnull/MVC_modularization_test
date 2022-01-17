@@ -1,5 +1,4 @@
 from flask_app import app
-from burger import Burger
 from flask_app.controllers import burgers
 
 
